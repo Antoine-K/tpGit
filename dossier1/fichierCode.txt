@@ -1,8 +1,0 @@
-fonction branche1(){
-	ue ligne à modifier
-	une ligne à conserver
-}
-fonction branche2(){
-	ue ligne à modifier
-	une ligne à conserver
-}
